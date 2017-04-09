@@ -20,6 +20,7 @@ public class TRABAJO {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "HOLA MUNDO");
         JOptionPane.showInputDialog(null,"Ingresar");
+        JOptionPane.showInputDialog(null,"Registrar");
     }
     
 }
