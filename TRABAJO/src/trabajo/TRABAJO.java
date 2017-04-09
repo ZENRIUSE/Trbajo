@@ -5,6 +5,8 @@
  */
 package trabajo;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author RAIDON
@@ -16,6 +18,8 @@ public class TRABAJO {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "HOLA MUNDO");
+        JOptionPane.showInputDialog(null,"Ingresar");
     }
     
 }
